@@ -1,0 +1,6 @@
+model_checkpoint_path: "H:/tensorflow_learning/MNIST_Practice/model/model.ckpt-9001"
+all_model_checkpoint_paths: "H:/tensorflow_learning/MNIST_Practice/model/model.ckpt-5001"
+all_model_checkpoint_paths: "H:/tensorflow_learning/MNIST_Practice/model/model.ckpt-6001"
+all_model_checkpoint_paths: "H:/tensorflow_learning/MNIST_Practice/model/model.ckpt-7001"
+all_model_checkpoint_paths: "H:/tensorflow_learning/MNIST_Practice/model/model.ckpt-8001"
+all_model_checkpoint_paths: "H:/tensorflow_learning/MNIST_Practice/model/model.ckpt-9001"
